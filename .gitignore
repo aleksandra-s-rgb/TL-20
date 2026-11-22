@@ -12,3 +12,9 @@ yarn-error.log*
 .pnp.js
 
 .vscode/*
+
+# Playwright
+node_modules/
+/blob-report/
+/playwright/.cache/
+/playwright/.auth/
