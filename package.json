@@ -1,0 +1,16 @@
+{
+  "name": "TL-20",
+  "version": "1.0.0",
+  "description": "",
+  "main": "dist/index.js",
+  "scripts": {
+    "build": "tsc",
+    "test": "playwright test"
+  },
+  "devDependencies": {
+    "@playwright/test": "^1.58.2",
+    "@types/node": "^26.6.6",
+    "typescript": "^6.0.3"
+  },
+  "private": true
+}
